@@ -1,24 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import AppStyle from "./App.module.css";
+import Row from "react-bootstrap/Row";
+import Col from "react-bootstrap/Col";
+import SequenceTable from "./components/sequenceTable/sequenceTable";
+import { getConfig } from "./services/config";
 
 function App() {
+  const [config, setConfig] = React.useState({});
+
+  React.useEffect(() => {
+    getConfig().then((result) => setConfig(result));
+  }, []);
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Row className={AppStyle.app}>
+      <Col className="mt-3">
+        <SequenceTable config={config} />
+      </Col>
+    </Row>
   );
 }
 

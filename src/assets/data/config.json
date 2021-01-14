@@ -1,0 +1,28 @@
+{
+    "sequenceTableTitle": "Country Sequence Submission Ranking",
+    "sequenceTableHeaders": {
+        "default": [{
+                "Header": "Rank",
+                "accessor": "rank"
+            },
+            {
+                "Header": "Country",
+                "accessor": "country"
+            },
+            {
+                "Header": "Reported Cases",
+                "accessor": "reported_cases"
+            },
+            {
+                "Header": "Samples Sequenced",
+                "accessor": "samples_sequenced"
+            },
+            {
+                "Header": "Percentage of Cases Sequenced",
+                "accessor": "perc_sequenced"
+            }
+        ]
+    },
+    "sequenceTableBarCol": "Percentage of Cases Sequenced",
+    "sequenceTableDisclaimer": ""
+}

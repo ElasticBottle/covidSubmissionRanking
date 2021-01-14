@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/css/main.884883d1.chunk.css",
+    "main.js": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/main.f25c5828.chunk.js",
+    "main.js.map": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/main.f25c5828.chunk.js.map",
+    "runtime-main.js": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/runtime-main.7418587a.js",
+    "runtime-main.js.map": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/runtime-main.7418587a.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.8b64380c.chunk.js": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/2.8b64380c.chunk.js",
+    "static/js/2.8b64380c.chunk.js.map": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/2.8b64380c.chunk.js.map",
+    "static/js/3.9369b238.chunk.js": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/3.9369b238.chunk.js",
+    "static/js/3.9369b238.chunk.js.map": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/3.9369b238.chunk.js.map",
+    "index.html": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.884883d1.chunk.css.map": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/css/main.884883d1.chunk.css.map",
+    "static/js/2.8b64380c.chunk.js.LICENSE.txt": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/2.8b64380c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7418587a.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.8b64380c.chunk.js",
+    "static/css/main.884883d1.chunk.css",
+    "static/js/main.f25c5828.chunk.js"
+  ]
+}
