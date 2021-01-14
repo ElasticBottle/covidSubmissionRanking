@@ -97,7 +97,6 @@ function Table({
     useGlobalFilter,
     usePagination
   );
-  console.log("state :>> ", state);
 
   // Render the UI for your table
   return (
@@ -135,7 +134,6 @@ function Table({
               return (
                 <tr {...row.getRowProps()} key={i}>
                   {row.cells.map((cell) => {
-                    if (cell.column.Header === barCol) console.log(cell);
                     return (
                       <td
                         {...cell.getCellProps()}

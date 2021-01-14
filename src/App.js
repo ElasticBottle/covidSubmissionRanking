@@ -14,7 +14,9 @@ function App() {
   return (
     <Row className={AppStyle.app}>
       <Col className="mt-3">
-        <SequenceTable config={config} />
+        <div className={AppStyle.seqTable}>
+          <SequenceTable config={config} />
+        </div>
       </Col>
     </Row>
   );

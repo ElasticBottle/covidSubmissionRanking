@@ -16,43 +16,43 @@
         "country": "Taiwan",
         "reported_cases": 776,
         "samples_sequenced": 137,
-        "perc_sequenced": 11.7
+        "perc_sequenced": 31.7
     }, {
         "rank": 4,
         "country": "Taiwan",
         "reported_cases": 776,
         "samples_sequenced": 137,
-        "perc_sequenced": 11.7
+        "perc_sequenced": 28.7
     }, {
         "rank": 5,
         "country": "Taiwan",
         "reported_cases": 776,
         "samples_sequenced": 137,
-        "perc_sequenced": 11.7
+        "perc_sequenced": 25.7
     }, {
         "rank": 6,
         "country": "Taiwan",
         "reported_cases": 776,
         "samples_sequenced": 137,
-        "perc_sequenced": 11.7
+        "perc_sequenced": 19
     }, {
         "rank": 7,
         "country": "Taiwan",
         "reported_cases": 776,
         "samples_sequenced": 137,
-        "perc_sequenced": 11.7
+        "perc_sequenced": 17.7
     }, {
         "rank": 8,
         "country": "Taiwan",
         "reported_cases": 776,
         "samples_sequenced": 137,
-        "perc_sequenced": 11.7
+        "perc_sequenced": 15.7
     }, {
         "rank": 9,
         "country": "Taiwan",
         "reported_cases": 776,
         "samples_sequenced": 137,
-        "perc_sequenced": 11.7
+        "perc_sequenced": 12.7
     }, {
         "rank": 10,
         "country": "Taiwan",
@@ -64,6 +64,6 @@
         "country": "Taiwan",
         "reported_cases": 776,
         "samples_sequenced": 137,
-        "perc_sequenced": 11.7
+        "perc_sequenced": 9.7
     }
 ]

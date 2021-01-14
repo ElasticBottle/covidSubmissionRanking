@@ -2,7 +2,7 @@ import { endpoint } from "./endpoint";
 const Axio = require("axios");
 
 export async function getSequenceData() {
-  return process.env.NODE_ENV === "fake"
+  return process.env.NODE_ENV === "production"
     ? Axio.get(endpoint.concat("sequenceData.json"))
         .then((result) => {
           return result.data;
