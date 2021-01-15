@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/css/main.b8b1fb8a.chunk.css",
-    "main.js": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/main.3372d771.chunk.js",
-    "main.js.map": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/main.3372d771.chunk.js.map",
-    "runtime-main.js": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/runtime-main.a5b2496c.js",
-    "runtime-main.js.map": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/runtime-main.a5b2496c.js.map",
+    "main.css": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/css/main.1e2609a9.chunk.css",
+    "main.js": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/main.ef264c47.chunk.js",
+    "main.js.map": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/main.ef264c47.chunk.js.map",
+    "runtime-main.js": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/runtime-main.1bfa9c30.js",
+    "runtime-main.js.map": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/runtime-main.1bfa9c30.js.map",
     "static/css/2.ae9f1eb3.chunk.css": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.283285d9.chunk.js": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/2.283285d9.chunk.js",
-    "static/js/2.283285d9.chunk.js.map": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/2.283285d9.chunk.js.map",
-    "static/js/3.2d596eb4.chunk.js": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/3.2d596eb4.chunk.js",
-    "static/js/3.2d596eb4.chunk.js.map": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/3.2d596eb4.chunk.js.map",
+    "static/js/2.926a0166.chunk.js": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/2.926a0166.chunk.js",
+    "static/js/2.926a0166.chunk.js.map": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/2.926a0166.chunk.js.map",
+    "static/js/3.f1efd158.chunk.js": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/3.f1efd158.chunk.js",
+    "static/js/3.f1efd158.chunk.js.map": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/3.f1efd158.chunk.js.map",
     "index.html": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/index.html",
     "static/css/2.ae9f1eb3.chunk.css.map": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/css/2.ae9f1eb3.chunk.css.map",
-    "static/css/main.b8b1fb8a.chunk.css.map": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/css/main.b8b1fb8a.chunk.css.map",
-    "static/js/2.283285d9.chunk.js.LICENSE.txt": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/2.283285d9.chunk.js.LICENSE.txt"
+    "static/css/main.1e2609a9.chunk.css.map": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/css/main.1e2609a9.chunk.css.map",
+    "static/js/2.926a0166.chunk.js.LICENSE.txt": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/2.926a0166.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5b2496c.js",
+    "static/js/runtime-main.1bfa9c30.js",
     "static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.283285d9.chunk.js",
-    "static/css/main.b8b1fb8a.chunk.css",
-    "static/js/main.3372d771.chunk.js"
+    "static/js/2.926a0166.chunk.js",
+    "static/css/main.1e2609a9.chunk.css",
+    "static/js/main.ef264c47.chunk.js"
   ]
 }

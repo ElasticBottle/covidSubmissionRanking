@@ -1,5 +1,15 @@
 {
     "sequenceTableTitle": "Country Sequence Submission Ranking",
+    "sequenceTableRanking": [{
+        "value": "perc_sequenced",
+        "label": "Percentage of Cases Sequenced"
+    }, {
+        "value": "seq_per_1000",
+        "label": "Sequences per 1000 cases"
+    }, {
+        "value": "median_days_deposition",
+        "label": "Median Days to Deposition"
+    }],
     "sequenceTableHeaders": {
         "default": [{
                 "Header": "Rank",
@@ -20,9 +30,36 @@
             {
                 "Header": "Percentage of Cases Sequenced",
                 "accessor": "perc_sequenced"
+            },
+            {
+                "Header": "Sequences per 1000 cases",
+                "accessor": "seq_per_1000"
+            },
+            {
+                "Header": "Median Days to Deposition",
+                "accessor": "median_days_deposition"
             }
         ]
     },
-    "sequenceTableBarCol": "Percentage of Cases Sequenced",
+    "sequenceTableBarCol": ["perc_sequenced", "seq_per_1000", "median_days_deposition"],
+    "barConfig": {
+        "perc_sequenced": {
+            "minColor": " #0d4f03",
+            "maxColor": "#2ced0e",
+            "order": "DESC"
+        },
+        "seq_per_1000": {
+            "minColor": " #0d4f03",
+            "maxColor": "#2ced0e",
+            "order": "DESC"
+
+        },
+        "median_days_deposition": {
+            "minColor": "#1097eb",
+            "maxColor": "#0d4c73",
+            "order": "ASC"
+
+        }
+    },
     "sequenceTableDisclaimer": ""
 }

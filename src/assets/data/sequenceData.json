@@ -1,69 +1,88 @@
 [{
-        "rank": 1,
-        "country": "Australia",
-        "reported_cases": 28238,
-        "samples_sequenced": 16537,
-        "perc_sequenced": 99.6
-    },
-    {
-        "rank": 2,
-        "country": "New Zealand",
-        "reported_cases": 2128,
-        "samples_sequenced": 1023,
-        "perc_sequenced": 48.6
-    }, {
-        "rank": 3,
-        "country": "Taiwan",
-        "reported_cases": 776,
-        "samples_sequenced": 137,
-        "perc_sequenced": 31.7
-    }, {
-        "rank": 4,
-        "country": "Taiwan",
-        "reported_cases": 776,
-        "samples_sequenced": 137,
-        "perc_sequenced": 28.7
-    }, {
-        "rank": 5,
-        "country": "Taiwan",
-        "reported_cases": 776,
-        "samples_sequenced": 137,
-        "perc_sequenced": 25.7
-    }, {
-        "rank": 6,
-        "country": "Taiwan",
-        "reported_cases": 776,
-        "samples_sequenced": 137,
-        "perc_sequenced": 19
-    }, {
-        "rank": 7,
-        "country": "Taiwan",
-        "reported_cases": 776,
-        "samples_sequenced": 137,
-        "perc_sequenced": 17.7
-    }, {
-        "rank": 8,
-        "country": "Taiwan",
-        "reported_cases": 776,
-        "samples_sequenced": 137,
-        "perc_sequenced": 15.7
-    }, {
-        "rank": 9,
-        "country": "Taiwan",
-        "reported_cases": 776,
-        "samples_sequenced": 137,
-        "perc_sequenced": 12.7
-    }, {
-        "rank": 10,
-        "country": "Taiwan",
-        "reported_cases": 776,
-        "samples_sequenced": 137,
-        "perc_sequenced": 11.7
-    }, {
-        "rank": 11,
-        "country": "Taiwan",
-        "reported_cases": 776,
-        "samples_sequenced": 137,
-        "perc_sequenced": 9.7
-    }
-]
+    "country": "New Zealand",
+    "reported_cases": 2128,
+    "samples_sequenced": 1023,
+    "perc_sequenced": 48.6,
+    "seq_per_1000": 486,
+    "median_days_deposition": 10
+
+}, {
+    "country": "Australia",
+    "reported_cases": 28238,
+    "samples_sequenced": 16537,
+    "perc_sequenced": 99.6,
+    "seq_per_1000": 996,
+    "median_days_deposition": 4
+}, {
+    "country": "Taiwan",
+    "reported_cases": 776,
+    "samples_sequenced": 137,
+    "perc_sequenced": 31.7,
+    "seq_per_1000": 317,
+    "median_days_deposition": 4
+
+}, {
+    "country": "Taiwan",
+    "reported_cases": 776,
+    "samples_sequenced": 137,
+    "perc_sequenced": 28.7,
+    "seq_per_1000": 287,
+    "median_days_deposition": 11
+
+}, {
+    "country": "Taiwan",
+    "reported_cases": 776,
+    "samples_sequenced": 137,
+    "perc_sequenced": 25.7,
+    "seq_per_1000": 257,
+    "median_days_deposition": 68
+
+}, {
+    "country": "Taiwan",
+    "reported_cases": 776,
+    "samples_sequenced": 137,
+    "perc_sequenced": 19,
+    "seq_per_1000": 996,
+    "median_days_deposition": 233
+
+}, {
+    "country": "Taiwan",
+    "reported_cases": 776,
+    "samples_sequenced": 137,
+    "perc_sequenced": 17.7,
+    "seq_per_1000": 177,
+    "median_days_deposition": 4
+
+}, {
+    "country": "Taiwan",
+    "reported_cases": 776,
+    "samples_sequenced": 137,
+    "perc_sequenced": 15.7,
+    "seq_per_1000": 157,
+    "median_days_deposition": 96
+
+}, {
+    "country": "Taiwan",
+    "reported_cases": 776,
+    "samples_sequenced": 137,
+    "perc_sequenced": 12.7,
+    "seq_per_1000": 127,
+    "median_days_deposition": 4
+
+}, {
+    "country": "Taiwan",
+    "reported_cases": 776,
+    "samples_sequenced": 137,
+    "perc_sequenced": 11.7,
+    "seq_per_1000": 117,
+    "median_days_deposition": 56
+
+}, {
+    "country": "Taiwan",
+    "reported_cases": 776,
+    "samples_sequenced": 137,
+    "perc_sequenced": 9.7,
+    "seq_per_1000": 97,
+    "median_days_deposition": 4
+
+}]

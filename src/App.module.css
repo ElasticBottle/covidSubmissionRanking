@@ -1,4 +1,10 @@
+.app {
+  padding: 0px 50px;
+  overflow: hidden;
+}
+
 .seqTable {
   max-width: 1140px;
   margin: 0 auto;
+
 }

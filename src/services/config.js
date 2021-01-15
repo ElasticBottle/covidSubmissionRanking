@@ -31,3 +31,11 @@ export function getSequenceTableDisclaimer(config) {
 export function getSequenceTableBarCol(config) {
   return config.sequenceTableBarCol;
 }
+
+export function getBarConfig(config) {
+  return config.barConfig;
+}
+
+export function getRankOptions(config) {
+  return config.sequenceTableRanking;
+}

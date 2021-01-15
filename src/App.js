@@ -12,13 +12,15 @@ function App() {
     getConfig().then((result) => setConfig(result));
   }, []);
   return (
-    <Row className={AppStyle.app}>
-      <Col className="mt-3">
-        <div className={AppStyle.seqTable}>
-          <SequenceTable config={config} />
-        </div>
-      </Col>
-    </Row>
+    <div className={AppStyle.app}>
+      <Row>
+        <Col className="mt-3">
+          <div className={AppStyle.seqTable}>
+            <SequenceTable config={config} />
+          </div>
+        </Col>
+      </Row>
+    </div>
   );
 }
 
