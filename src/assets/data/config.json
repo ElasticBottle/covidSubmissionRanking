@@ -1,5 +1,5 @@
 {
-    "sequenceTableTitle": "Country Sequence Submission Ranking",
+    "sequenceTableTitle": "",
     "sequenceTableRanking": [{
         "value": "perc_sequenced",
         "label": "Percentage of Cases Sequenced"

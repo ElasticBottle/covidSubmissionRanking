@@ -46,7 +46,6 @@ const SequenceTable = ({ config }) => {
           data: data,
         })
       );
-      setIsLoading(false);
       return addThousandSeparators(
         rankData(
           orderData(rankBy, data, ((rawBarConfig ?? {})[rankBy] ?? {}).order)
@@ -71,6 +70,7 @@ const SequenceTable = ({ config }) => {
     firstFetch
       ? getSequenceData().then((result) => {
           setFirstFetch(false);
+          setIsLoading(false);
           setData(updateData(result));
         })
       : setData((prev) => updateData(prev));
@@ -83,9 +83,7 @@ const SequenceTable = ({ config }) => {
 
   return (
     <div className={`${SequenceTableStyle.fullWidth}`}>
-      <h2 className={SequenceTableStyle.title}>
-        {title ?? "Country Submission Count"}
-      </h2>
+      <h2 className={SequenceTableStyle.title}>{title ?? ""}</h2>
       <Selection
         rankBy={rankBy}
         setRankBy={setRankBy}
