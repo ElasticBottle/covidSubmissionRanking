@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/css/main.9e8d1b04.chunk.css",
-    "main.js": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/main.10c2e754.chunk.js",
-    "main.js.map": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/main.10c2e754.chunk.js.map",
+    "main.js": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/main.83a06599.chunk.js",
+    "main.js.map": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/main.83a06599.chunk.js.map",
     "runtime-main.js": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/runtime-main.1bfa9c30.js",
     "runtime-main.js.map": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/js/runtime-main.1bfa9c30.js.map",
     "static/css/2.ae9f1eb3.chunk.css": "https://mendel3.bii.a-star.edu.sg/METHODS/corona/gamma/GISAID/submissionRanking/static/css/2.ae9f1eb3.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.ae9f1eb3.chunk.css",
     "static/js/2.926a0166.chunk.js",
     "static/css/main.9e8d1b04.chunk.css",
-    "static/js/main.10c2e754.chunk.js"
+    "static/js/main.83a06599.chunk.js"
   ]
 }

@@ -13,7 +13,7 @@ import {
   useAsyncDebounce,
 } from "react-table";
 /** @jsxImportSource @emotion/react */
-import { css } from "@emotion/react";
+import { css, jsx } from "@emotion/react";
 import { scaleLinear } from "d3-scale";
 
 import TableStyle from "./table.module.css";
@@ -72,6 +72,8 @@ function Table({
   downloadFileName,
   disclaimer = "",
 }) {
+  console.log("barConfig :>> ", barConfig);
+  console.log("data :>> ", data);
   const csvHeader = columns.map((val) => {
     const header = {};
     header.label = val.Header;

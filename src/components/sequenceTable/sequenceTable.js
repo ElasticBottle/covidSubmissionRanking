@@ -46,6 +46,8 @@ const SequenceTable = ({ config }) => {
           data: data,
         })
       );
+      setIsLoading(false);
+
       return addThousandSeparators(
         rankData(
           orderData(rankBy, data, ((rawBarConfig ?? {})[rankBy] ?? {}).order)
@@ -70,7 +72,6 @@ const SequenceTable = ({ config }) => {
     firstFetch
       ? getSequenceData().then((result) => {
           setFirstFetch(false);
-          setIsLoading(false);
           setData(updateData(result));
         })
       : setData((prev) => updateData(prev));
