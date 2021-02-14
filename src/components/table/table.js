@@ -72,8 +72,6 @@ function Table({
   downloadFileName,
   disclaimer = "",
 }) {
-  console.log("barConfig :>> ", barConfig);
-  console.log("data :>> ", data);
   const csvHeader = columns.map((val) => {
     const header = {};
     header.label = val.Header;
@@ -198,7 +196,9 @@ function Table({
                               : css``
                           }
                         >
-                          {cell.render("Cell")}
+                          {barCol.includes(key)
+                            ? cell.value.toFixed(2)
+                            : cell.render("Cell")}
                         </td>
                       );
                     })}

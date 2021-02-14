@@ -30,7 +30,7 @@ const SequenceTable = ({ config }) => {
   const [title, setTitle] = React.useState("");
   const [disclaimer, setDisclaimer] = React.useState("");
 
-  const [rankBy, setRankBy] = React.useState("seq_per_1000");
+  const [rankBy, setRankBy] = React.useState("perc_sequenced");
   const [barConfig, setBarConfig] = React.useState({});
   const [data, setData] = React.useState([]);
   const fieldToAddCommas = React.useRef([

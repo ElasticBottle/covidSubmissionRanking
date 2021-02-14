@@ -11,6 +11,7 @@ function App() {
   React.useEffect(() => {
     getConfig().then((result) => setConfig(result));
   }, []);
+
   return (
     <div className={AppStyle.app}>
       <Row>
