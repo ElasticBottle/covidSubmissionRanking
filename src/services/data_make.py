@@ -16,7 +16,8 @@ def main():
     )
     if r.status_code == 200:
         gisaid_data = pd.DataFrame.from_records(r.json()["stats"])
-        print(gisaid_data)
+        print("Successfully downloaded GISAID submission count.")
+        #print(gisaid_data)
     else:
         raise Exception("Could not retrieve data from GISAID")
 
@@ -26,8 +27,10 @@ def main():
         result = map(extract_who_data, result)
         who_data = pd.DataFrame.from_records(result)
         who_data = who_data[who_data["reported_cases"] != 0]
+
+        print("Successfully downloaded WHO case numbers.")
     else:
-        raise Exception("Could not retrieve data from GISAID")
+        raise Exception("Could not retrieve data from WHO")
 
     combine_data = pd.merge(gisaid_data, who_data, on=["countrycode"], how="inner")
     combine_data.dropna(inplace=True)
@@ -38,14 +41,14 @@ def main():
     combine_data.columns = [
         "country",
         "country_code",
-        "count",
+        "samples_sequenced",
         "dtd",
         "reported_cases",
         "perc_sequenced",
     ]
     combine_data = combine_data.astype(
         {
-            "count": "int32",
+            "samples_sequenced": "int32",
             "dtd": "int32",
             "reported_cases": "int32",
         }
@@ -53,6 +56,8 @@ def main():
     combine_data = combine_data.sort_values(by="perc_sequenced", ascending=False)
 
     combine_data.to_json("test.json", orient="records")
+
+    print("All done.")
 
 
 if __name__ == "__main__":

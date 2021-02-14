@@ -22,7 +22,7 @@
             },
             {
                 "Header": "Samples Sequenced",
-                "accessor": "count"
+                "accessor": "samples_sequenced"
             },
             {
                 "Header": "Percentage of Cases Sequenced (%)",
