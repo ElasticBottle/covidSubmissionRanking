@@ -90,6 +90,7 @@ const SequenceTable = ({ config }) => {
     getSequenceData().then((result) => setData(updateData(result)));
   }, fiveMinutes);
 
+  console.log("data :>> ", data);
   return (
     <div className={`${SequenceTableStyle.fullWidth}`}>
       <h2 className={SequenceTableStyle.title}>{title ?? ""}</h2>

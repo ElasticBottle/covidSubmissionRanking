@@ -1,16 +1,21 @@
 {
     "sequenceTableTitle": "",
-    "sequenceTableRanking": [
-      {"value": "perc_sequenced",
-        "label": "Percentage of Cases Sequenced"},
+    "sequenceTableRanking": [{
+            "value": "perc_sequenced",
+            "label": "Percentage of Cases Sequenced"
+        },
 
-      {"value": "dtd",
-        "label": "Median Days to Deposition"}
+        {
+            "value": "dtd",
+            "label": "Median Days to Deposition"
+        }
 
-      ],
+    ],
     "sequenceTableHeaders": {
-        "default": [
-
+        "default": [{
+                "Header": "Rank",
+                "accessor": "rank"
+            },
             {
                 "Header": "Country",
                 "accessor": "country"
