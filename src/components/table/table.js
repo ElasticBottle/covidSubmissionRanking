@@ -196,9 +196,7 @@ function Table({
                               : css``
                           }
                         >
-                          {barCol.includes(key)
-                            ? cell.value.toFixed(2)
-                            : cell.render("Cell")}
+                          {cell.render("Cell")}
                         </td>
                       );
                     })}

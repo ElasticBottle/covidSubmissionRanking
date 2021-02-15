@@ -16,6 +16,7 @@ import { addThousandSeparators } from "../../util/addThousandSeparators";
 import { updateBarMinMaxColor } from "../../util/updateBarMinMaxColor";
 import { orderData } from "../../util/orderData";
 import { rankData } from "../../util/rankData";
+import { removeTrailingDecimals } from "../../util/removeTrailingDecimal";
 
 import SequenceTableStyle from "./sequenceTable.module.css";
 
@@ -37,6 +38,10 @@ const SequenceTable = ({ config }) => {
     "reported_cases",
     "samples_sequenced",
   ]);
+  const fieldToRemoveTrailingDecimal = React.useRef([
+    { name: "dtd", rounding: 0 },
+    { name: "perc_sequenced", rounding: 2 },
+  ]);
   const updateData = React.useCallback(
     (data) => {
       setBarConfig(
@@ -48,11 +53,14 @@ const SequenceTable = ({ config }) => {
       );
       setIsLoading(false);
 
-      return addThousandSeparators(
-        rankData(
-          orderData(rankBy, data, ((rawBarConfig ?? {})[rankBy] ?? {}).order)
+      return removeTrailingDecimals(
+        addThousandSeparators(
+          rankData(
+            orderData(rankBy, data, ((rawBarConfig ?? {})[rankBy] ?? {}).order)
+          ),
+          fieldToAddCommas.current
         ),
-        fieldToAddCommas.current
+        fieldToRemoveTrailingDecimal.current
       );
     },
     [rawBarConfig, rankBy, barCol]

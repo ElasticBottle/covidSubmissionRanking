@@ -1,1 +1,1016 @@
-[{"country":"Iceland","country_code":"IS","samples_sequenced":4172,"dtd":88,"reported_cases":6033,"perc_sequenced":69.152991878},{"country":"Australia","country_code":"AU","samples_sequenced":17361,"dtd":52,"reported_cases":28886,"perc_sequenced":60.1017794087},{"country":"New Zealand","country_code":"NZ","samples_sequenced":1111,"dtd":60,"reported_cases":1972,"perc_sequenced":56.3387423935},{"country":"Denmark","country_code":"DK","samples_sequenced":41985,"dtd":20,"reported_cases":203793,"perc_sequenced":20.6017871075},{"country":"Timor-Leste","country_code":"TL","samples_sequenced":19,"dtd":51,"reported_cases":101,"perc_sequenced":18.8118811881},{"country":"Gibraltar","country_code":"GI","samples_sequenced":477,"dtd":8,"reported_cases":4203,"perc_sequenced":11.3490364026},{"country":"Gambia","country_code":"GM","samples_sequenced":430,"dtd":70,"reported_cases":4302,"perc_sequenced":9.9953509995},{"country":"Cambodia","country_code":"KH","samples_sequenced":46,"dtd":86,"reported_cases":479,"perc_sequenced":9.6033402923},{"country":"Saint Kitts and Nevis","country_code":"KN","samples_sequenced":3,"dtd":281,"reported_cases":40,"perc_sequenced":7.5},{"country":"Vietnam","country_code":"VN","samples_sequenced":151,"dtd":118,"reported_cases":2142,"perc_sequenced":7.0494864613},{"country":"Luxembourg","country_code":"LU","samples_sequenced":3225,"dtd":49,"reported_cases":52539,"perc_sequenced":6.1382972649},{"country":"Faroe Islands","country_code":"FO","samples_sequenced":38,"dtd":92,"reported_cases":657,"perc_sequenced":5.7838660578},{"country":"United Kingdom","country_code":"GB","samples_sequenced":221370,"dtd":21,"reported_cases":4013803,"perc_sequenced":5.5152183602},{"country":"Bermuda","country_code":"BM","samples_sequenced":30,"dtd":61,"reported_cases":694,"perc_sequenced":4.3227665706},{"country":"Japan","country_code":"JP","samples_sequenced":17252,"dtd":96,"reported_cases":413154,"perc_sequenced":4.1756826752},{"country":"Brunei","country_code":"BN","samples_sequenced":7,"dtd":45,"reported_cases":184,"perc_sequenced":3.8043478261},{"country":"Thailand","country_code":"TH","samples_sequenced":740,"dtd":62,"reported_cases":24405,"perc_sequenced":3.0321655398},{"country":"Singapore","country_code":"SG","samples_sequenced":1801,"dtd":60,"reported_cases":59777,"perc_sequenced":3.0128644796},{"country":"Finland","country_code":"FI","samples_sequenced":1154,"dtd":77,"reported_cases":49572,"perc_sequenced":2.3279270556},{"country":"Norway","country_code":"NO","samples_sequenced":1424,"dtd":39,"reported_cases":65811,"perc_sequenced":2.1637720138},{"country":"Equatorial Guinea","country_code":"GQ","samples_sequenced":119,"dtd":179,"reported_cases":5663,"perc_sequenced":2.1013597033},{"country":"South Korea","country_code":"KR","samples_sequenced":1738,"dtd":82,"reported_cases":83199,"perc_sequenced":2.0889674155},{"country":"Canada","country_code":"CA","samples_sequenced":15692,"dtd":164,"reported_cases":817163,"perc_sequenced":1.9203023142},{"country":"Switzerland","country_code":"CH","samples_sequenced":9468,"dtd":23,"reported_cases":538116,"perc_sequenced":1.7594719354},{"country":"Democratic Republic of the Congo","country_code":"CD","samples_sequenced":371,"dtd":79,"reported_cases":24151,"perc_sequenced":1.5361682746},{"country":"Papua New Guinea","country_code":"PG","samples_sequenced":13,"dtd":104,"reported_cases":922,"perc_sequenced":1.409978308},{"country":"Ireland","country_code":"IE","samples_sequenced":2358,"dtd":39,"reported_cases":207720,"perc_sequenced":1.1351819757},{"country":"China","country_code":"CN","samples_sequenced":1106,"dtd":80,"reported_cases":101496,"perc_sequenced":1.0896981162},{"country":"Rwanda","country_code":"RW","samples_sequenced":184,"dtd":145,"reported_cases":17200,"perc_sequenced":1.0697674419},{"country":"Mayotte","country_code":"YT","samples_sequenced":117,"dtd":16,"reported_cases":12702,"perc_sequenced":0.9211147851},{"country":"Suriname","country_code":"SR","samples_sequenced":71,"dtd":59,"reported_cases":8765,"perc_sequenced":0.8100399315},{"country":"Netherlands","country_code":"NL","samples_sequenced":8269,"dtd":30,"reported_cases":1021643,"perc_sequenced":0.8093825338},{"country":"Burkina Faso","country_code":"BF","samples_sequenced":85,"dtd":76,"reported_cases":11538,"perc_sequenced":0.7366961345},{"country":"Saint Martin","country_code":"MF","samples_sequenced":10,"dtd":219,"reported_cases":1377,"perc_sequenced":0.7262164125},{"country":"Belgium","country_code":"BE","samples_sequenced":5237,"dtd":24,"reported_cases":735220,"perc_sequenced":0.7123038002},{"country":"Kenya","country_code":"KE","samples_sequenced":679,"dtd":134,"reported_cases":102613,"perc_sequenced":0.66170953},{"country":"United Arab Emirates","country_code":"AE","samples_sequenced":1843,"dtd":208,"reported_cases":342974,"perc_sequenced":0.537358517},{"country":"Uganda","country_code":"UG","samples_sequenced":208,"dtd":124,"reported_cases":39979,"perc_sequenced":0.5202731434},{"country":"Senegal","country_code":"SN","samples_sequenced":136,"dtd":23,"reported_cases":30376,"perc_sequenced":0.4477218857},{"country":"Latvia","country_code":"LV","samples_sequenced":315,"dtd":30,"reported_cases":75509,"perc_sequenced":0.4171688143},{"country":"Saint Lucia","country_code":"LC","samples_sequenced":10,"dtd":28,"reported_cases":2415,"perc_sequenced":0.4140786749},{"country":"Lithuania","country_code":"LT","samples_sequenced":775,"dtd":59,"reported_cases":190241,"perc_sequenced":0.40737801},{"country":"Portugal","country_code":"PT","samples_sequenced":3151,"dtd":50,"reported_cases":781223,"perc_sequenced":0.4033419395},{"country":"USA","country_code":"US","samples_sequenced":105568,"dtd":60,"reported_cases":27122583,"perc_sequenced":0.3892254657},{"country":"Austria","country_code":"AT","samples_sequenced":1655,"dtd":77,"reported_cases":427367,"perc_sequenced":0.3872549823},{"country":"Zambia","country_code":"ZM","samples_sequenced":221,"dtd":209,"reported_cases":67681,"perc_sequenced":0.3265318184},{"country":"Mongolia","country_code":"MN","samples_sequenced":7,"dtd":233,"reported_cases":2247,"perc_sequenced":0.3115264798},{"country":"Mali","country_code":"ML","samples_sequenced":24,"dtd":95,"reported_cases":8218,"perc_sequenced":0.2920418593},{"country":"Sierra Leone","country_code":"SL","samples_sequenced":11,"dtd":123,"reported_cases":3817,"perc_sequenced":0.288184438},{"country":"Uruguay","country_code":"UY","samples_sequenced":135,"dtd":85,"reported_cases":47254,"perc_sequenced":0.2856901003},{"country":"French Guiana","country_code":"GF","samples_sequenced":47,"dtd":20,"reported_cases":16456,"perc_sequenced":0.2856101118},{"country":"Zimbabwe","country_code":"ZW","samples_sequenced":100,"dtd":202,"reported_cases":35045,"perc_sequenced":0.2853474105},{"country":"Guadeloupe","country_code":"GP","samples_sequenced":26,"dtd":226,"reported_cases":9302,"perc_sequenced":0.2795097828},{"country":"Spain","country_code":"ES","samples_sequenced":8488,"dtd":80,"reported_cases":3041454,"perc_sequenced":0.2790770467},{"country":"Ghana","country_code":"GH","samples_sequenced":204,"dtd":33,"reported_cases":74347,"perc_sequenced":0.2743890137},{"country":"Sweden","country_code":"SE","samples_sequenced":1668,"dtd":49,"reported_cases":608411,"perc_sequenced":0.2741567789},{"country":"Mozambique","country_code":"MZ","samples_sequenced":126,"dtd":33,"reported_cases":47790,"perc_sequenced":0.263653484},{"country":"Benin","country_code":"BJ","samples_sequenced":12,"dtd":93,"reported_cases":4560,"perc_sequenced":0.2631578947},{"country":"Antigua and Barbuda","country_code":"AG","samples_sequenced":1,"dtd":66,"reported_cases":381,"perc_sequenced":0.2624671916},{"country":"Aruba","country_code":"AW","samples_sequenced":19,"dtd":98,"reported_cases":7338,"perc_sequenced":0.2589261379},{"country":"Saudi Arabia","country_code":"SA","samples_sequenced":953,"dtd":127,"reported_cases":372073,"perc_sequenced":0.2561325331},{"country":"Israel","country_code":"IL","samples_sequenced":1702,"dtd":27,"reported_cases":705092,"perc_sequenced":0.2413869396},{"country":"Egypt","country_code":"EG","samples_sequenced":409,"dtd":27,"reported_cases":172602,"perc_sequenced":0.236961333},{"country":"Nigeria","country_code":"NG","samples_sequenced":340,"dtd":84,"reported_cases":144521,"perc_sequenced":0.2352599276},{"country":"North Macedonia","country_code":"MK","samples_sequenced":224,"dtd":63,"reported_cases":96518,"perc_sequenced":0.2320810626},{"country":"South Africa","country_code":"ZA","samples_sequenced":3420,"dtd":35,"reported_cases":1487681,"perc_sequenced":0.2298879935},{"country":"Germany","country_code":"DE","samples_sequenced":5156,"dtd":156,"reported_cases":2328447,"perc_sequenced":0.2214351454},{"country":"Botswana","country_code":"BW","samples_sequenced":55,"dtd":20,"reported_cases":24926,"perc_sequenced":0.2206531333},{"country":"Trinidad","country_code":"TT","samples_sequenced":16,"dtd":100,"reported_cases":7632,"perc_sequenced":0.2096436059},{"country":"Curacao","country_code":"CW","samples_sequenced":9,"dtd":198,"reported_cases":4633,"perc_sequenced":0.1942585798},{"country":"France","country_code":"FR","samples_sequenced":6118,"dtd":55,"reported_cases":3369672,"perc_sequenced":0.1815606979},{"country":"Jordan","country_code":"JO","samples_sequenced":590,"dtd":49,"reported_cases":343563,"perc_sequenced":0.1717297846},{"country":"Bangladesh","country_code":"BD","samples_sequenced":896,"dtd":41,"reported_cases":539975,"perc_sequenced":0.165933608},{"country":"Oman","country_code":"OM","samples_sequenced":205,"dtd":76,"reported_cases":136622,"perc_sequenced":0.1500490404},{"country":"Italy","country_code":"IT","samples_sequenced":3920,"dtd":65,"reported_cases":2697296,"perc_sequenced":0.1453307312},{"country":"Malaysia","country_code":"MY","samples_sequenced":361,"dtd":85,"reported_cases":258306,"perc_sequenced":0.1397567226},{"country":"Sri Lanka","country_code":"LK","samples_sequenced":101,"dtd":24,"reported_cases":74056,"perc_sequenced":0.1363832775},{"country":"Slovenia","country_code":"SI","samples_sequenced":242,"dtd":220,"reported_cases":178133,"perc_sequenced":0.1358535476},{"country":"Bahrain","country_code":"BH","samples_sequenced":150,"dtd":28,"reported_cases":111312,"perc_sequenced":0.1347563605},{"country":"Chile","country_code":"CL","samples_sequenced":966,"dtd":164,"reported_cases":768471,"perc_sequenced":0.125704158},{"country":"Liechtenstein","country_code":"LI","samples_sequenced":3,"dtd":28,"reported_cases":2611,"perc_sequenced":0.1148985063},{"country":"Costa Rica","country_code":"CR","samples_sequenced":228,"dtd":84,"reported_cases":198756,"perc_sequenced":0.1147135181},{"country":"Panama","country_code":"PA","samples_sequenced":315,"dtd":119,"reported_cases":330075,"perc_sequenced":0.0954328562},{"country":"Ecuador","country_code":"EC","samples_sequenced":237,"dtd":36,"reported_cases":263517,"perc_sequenced":0.0899372716},{"country":"Greece","country_code":"GR","samples_sequenced":142,"dtd":58,"reported_cases":170244,"perc_sequenced":0.0834096943},{"country":"Malta","country_code":"MT","samples_sequenced":15,"dtd":30,"reported_cases":19497,"perc_sequenced":0.0769349131},{"country":"Gabon","country_code":"GA","samples_sequenced":9,"dtd":211,"reported_cases":12171,"perc_sequenced":0.0739462657},{"country":"Hungary","country_code":"HU","samples_sequenced":278,"dtd":66,"reported_cases":385755,"perc_sequenced":0.0720664671},{"country":"Saint Vincent and the Grenadines","country_code":"VC","samples_sequenced":1,"dtd":46,"reported_cases":1395,"perc_sequenced":0.0716845878},{"country":"Jamaica","country_code":"JM","samples_sequenced":13,"dtd":67,"reported_cases":18527,"perc_sequenced":0.0701678631},{"country":"Cameroon","country_code":"CM","samples_sequenced":22,"dtd":82,"reported_cases":31394,"perc_sequenced":0.0700770848},{"country":"Slovakia","country_code":"SK","samples_sequenced":168,"dtd":20,"reported_cases":273904,"perc_sequenced":0.0613353584},{"country":"Guam","country_code":"GU","samples_sequenced":4,"dtd":51,"reported_cases":7481,"perc_sequenced":0.0534687876},{"country":"Czech Republic","country_code":"CZ","samples_sequenced":532,"dtd":55,"reported_cases":1082849,"perc_sequenced":0.049129657},{"country":"India","country_code":"IN","samples_sequenced":5132,"dtd":62,"reported_cases":10892746,"perc_sequenced":0.0471139233},{"country":"Bosnia and Herzegovina","country_code":"BA","samples_sequenced":59,"dtd":71,"reported_cases":125402,"perc_sequenced":0.0470486914},{"country":"Mexico","country_code":"MX","samples_sequenced":922,"dtd":130,"reported_cases":1968566,"perc_sequenced":0.0468361234},{"country":"Russia","country_code":"RU","samples_sequenced":1844,"dtd":67,"reported_cases":4057698,"perc_sequenced":0.045444486},{"country":"Palestine","country_code":"PS","samples_sequenced":79,"dtd":109,"reported_cases":187526,"perc_sequenced":0.0421274917},{"country":"Serbia","country_code":"RS","samples_sequenced":175,"dtd":145,"reported_cases":417871,"perc_sequenced":0.0418789531},{"country":"Guinea","country_code":"GN","samples_sequenced":6,"dtd":213,"reported_cases":14860,"perc_sequenced":0.0403768506},{"country":"Tunisia","country_code":"TN","samples_sequenced":84,"dtd":53,"reported_cases":221455,"perc_sequenced":0.0379309566},{"country":"Reunion","country_code":"RE","samples_sequenced":4,"dtd":155,"reported_cases":10907,"perc_sequenced":0.0366736958},{"country":"Peru","country_code":"PE","samples_sequenced":443,"dtd":96,"reported_cases":1212309,"perc_sequenced":0.0365418388},{"country":"Poland","country_code":"PL","samples_sequenced":573,"dtd":35,"reported_cases":1583621,"perc_sequenced":0.0361828998},{"country":"Argentina","country_code":"AR","samples_sequenced":717,"dtd":240,"reported_cases":2008345,"perc_sequenced":0.0357010374},{"country":"Indonesia","country_code":"ID","samples_sequenced":416,"dtd":81,"reported_cases":1201859,"perc_sequenced":0.0346130453},{"country":"Belize","country_code":"BZ","samples_sequenced":4,"dtd":131,"reported_cases":12114,"perc_sequenced":0.0330196467},{"country":"Madagascar","country_code":"MG","samples_sequenced":6,"dtd":137,"reported_cases":19360,"perc_sequenced":0.0309917355},{"country":"Romania","country_code":"RO","samples_sequenced":233,"dtd":30,"reported_cases":757676,"perc_sequenced":0.0307519309},{"country":"Myanmar","country_code":"MM","samples_sequenced":41,"dtd":9,"reported_cases":141543,"perc_sequenced":0.0289664625},{"country":"Brazil","country_code":"BR","samples_sequenced":2709,"dtd":112,"reported_cases":9713909,"perc_sequenced":0.0278878462},{"country":"Morocco","country_code":"MA","samples_sequenced":123,"dtd":72,"reported_cases":477656,"perc_sequenced":0.0257507495},{"country":"Turkey","country_code":"TR","samples_sequenced":638,"dtd":46,"reported_cases":2572190,"perc_sequenced":0.0248037664},{"country":"Cyprus","country_code":"CY","samples_sequenced":8,"dtd":70,"reported_cases":32288,"perc_sequenced":0.0247770069},{"country":"Kazakhstan","country_code":"KZ","samples_sequenced":56,"dtd":32,"reported_cases":248566,"perc_sequenced":0.0225292276},{"country":"Colombia","country_code":"CO","samples_sequenced":479,"dtd":70,"reported_cases":2179641,"perc_sequenced":0.0219760961},{"country":"Croatia","country_code":"HR","samples_sequenced":50,"dtd":80,"reported_cases":237459,"perc_sequenced":0.0210562666},{"country":"Guatemala","country_code":"GT","samples_sequenced":32,"dtd":174,"reported_cases":166283,"perc_sequenced":0.0192443004},{"country":"Iran","country_code":"IR","samples_sequenced":271,"dtd":146,"reported_cases":1503753,"perc_sequenced":0.0180215767},{"country":"Montenegro","country_code":"ME","samples_sequenced":12,"dtd":37,"reported_cases":68001,"perc_sequenced":0.0176467993},{"country":"Algeria","country_code":"DZ","samples_sequenced":18,"dtd":199,"reported_cases":110303,"perc_sequenced":0.0163186858},{"country":"Kuwait","country_code":"KW","samples_sequenced":27,"dtd":34,"reported_cases":176052,"perc_sequenced":0.0153363779},{"country":"Belarus","country_code":"BY","samples_sequenced":36,"dtd":81,"reported_cases":265284,"perc_sequenced":0.0135703623},{"country":"Iraq","country_code":"IQ","samples_sequenced":84,"dtd":211,"reported_cases":639438,"perc_sequenced":0.0131365355},{"country":"Trinidad and Tobago","country_code":"TT","samples_sequenced":1,"dtd":10,"reported_cases":7632,"perc_sequenced":0.0131027254},{"country":"Pakistan","country_code":"PK","samples_sequenced":69,"dtd":148,"reported_cases":560363,"perc_sequenced":0.0123134468},{"country":"Bolivia","country_code":"BO","samples_sequenced":27,"dtd":251,"reported_cases":233854,"perc_sequenced":0.0115456652},{"country":"El Salvador","country_code":"SV","samples_sequenced":6,"dtd":78,"reported_cases":56653,"perc_sequenced":0.0105907895},{"country":"Qatar","country_code":"QA","samples_sequenced":16,"dtd":26,"reported_cases":156351,"perc_sequenced":0.0102333851},{"country":"Georgia","country_code":"GE","samples_sequenced":26,"dtd":17,"reported_cases":265200,"perc_sequenced":0.0098039216},{"country":"Andorra","country_code":"AD","samples_sequenced":1,"dtd":189,"reported_cases":10427,"perc_sequenced":0.0095904862},{"country":"Venezuela","country_code":"VE","samples_sequenced":12,"dtd":77,"reported_cases":131828,"perc_sequenced":0.0091027703},{"country":"Philippines","country_code":"PH","samples_sequenced":40,"dtd":49,"reported_cases":545300,"perc_sequenced":0.0073354117},{"country":"Lebanon","country_code":"LB","samples_sequenced":24,"dtd":78,"reported_cases":334086,"perc_sequenced":0.007183779},{"country":"Bulgaria","country_code":"BG","samples_sequenced":15,"dtd":67,"reported_cases":229010,"perc_sequenced":0.0065499323},{"country":"Nepal","country_code":"NP","samples_sequenced":15,"dtd":146,"reported_cases":272557,"perc_sequenced":0.005503436},{"country":"Cuba","country_code":"CU","samples_sequenced":2,"dtd":140,"reported_cases":36595,"perc_sequenced":0.0054652275},{"country":"Moldova","country_code":"MD","samples_sequenced":9,"dtd":166,"reported_cases":168826,"perc_sequenced":0.0053309324},{"country":"Ukraine","country_code":"UA","samples_sequenced":66,"dtd":76,"reported_cases":1268049,"perc_sequenced":0.0052048462},{"country":"Dominican Republic","country_code":"DO","samples_sequenced":9,"dtd":116,"reported_cases":227764,"perc_sequenced":0.0039514585},{"country":"Azerbaijan","country_code":"AZ","samples_sequenced":8,"dtd":23,"reported_cases":231840,"perc_sequenced":0.0034506556},{"country":"Uzbekistan","country_code":"UZ","samples_sequenced":2,"dtd":67,"reported_cases":79381,"perc_sequenced":0.0025194946},{"country":"Albania","country_code":"AL","samples_sequenced":1,"dtd":131,"reported_cases":90835,"perc_sequenced":0.0011008972},{"country":"Crimea","country_code":"UA","samples_sequenced":6,"dtd":72,"reported_cases":1268049,"perc_sequenced":0.0004731678}]
+[{
+    "country": "Iceland",
+    "country_code": "IS",
+    "samples_sequenced": 4172,
+    "dtd": 88,
+    "reported_cases": 6033,
+    "perc_sequenced": 69.152991878
+}, {
+    "country": "Australia",
+    "country_code": "AU",
+    "samples_sequenced": 17361,
+    "dtd": 52,
+    "reported_cases": 28886,
+    "perc_sequenced": 60.1017794087
+}, {
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "samples_sequenced": 1111,
+    "dtd": 60,
+    "reported_cases": 1972,
+    "perc_sequenced": 56.3387423935
+}, {
+    "country": "Denmark",
+    "country_code": "DK",
+    "samples_sequenced": 41985,
+    "dtd": 20,
+    "reported_cases": 203793,
+    "perc_sequenced": 20.6017871075
+}, {
+    "country": "Timor-Leste",
+    "country_code": "TL",
+    "samples_sequenced": 19,
+    "dtd": 51,
+    "reported_cases": 101,
+    "perc_sequenced": 18.8118811881
+}, {
+    "country": "Gibraltar",
+    "country_code": "GI",
+    "samples_sequenced": 477,
+    "dtd": 8,
+    "reported_cases": 4203,
+    "perc_sequenced": 11.3490364026
+}, {
+    "country": "Gambia",
+    "country_code": "GM",
+    "samples_sequenced": 430,
+    "dtd": 70,
+    "reported_cases": 4302,
+    "perc_sequenced": 9.9953509995
+}, {
+    "country": "Cambodia",
+    "country_code": "KH",
+    "samples_sequenced": 46,
+    "dtd": 86,
+    "reported_cases": 479,
+    "perc_sequenced": 9.6033402923
+}, {
+    "country": "Saint Kitts and Nevis",
+    "country_code": "KN",
+    "samples_sequenced": 3,
+    "dtd": 281,
+    "reported_cases": 40,
+    "perc_sequenced": 7.5
+}, {
+    "country": "Vietnam",
+    "country_code": "VN",
+    "samples_sequenced": 151,
+    "dtd": 118,
+    "reported_cases": 2142,
+    "perc_sequenced": 7.0494864613
+}, {
+    "country": "Luxembourg",
+    "country_code": "LU",
+    "samples_sequenced": 3225,
+    "dtd": 49,
+    "reported_cases": 52539,
+    "perc_sequenced": 6.1382972649
+}, {
+    "country": "Faroe Islands",
+    "country_code": "FO",
+    "samples_sequenced": 38,
+    "dtd": 92,
+    "reported_cases": 657,
+    "perc_sequenced": 5.7838660578
+}, {
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "samples_sequenced": 221370,
+    "dtd": 21,
+    "reported_cases": 4013803,
+    "perc_sequenced": 5.5152183602
+}, {
+    "country": "Bermuda",
+    "country_code": "BM",
+    "samples_sequenced": 30,
+    "dtd": 61,
+    "reported_cases": 694,
+    "perc_sequenced": 4.3227665706
+}, {
+    "country": "Japan",
+    "country_code": "JP",
+    "samples_sequenced": 17252,
+    "dtd": 96,
+    "reported_cases": 413154,
+    "perc_sequenced": 4.1756826752
+}, {
+    "country": "Brunei",
+    "country_code": "BN",
+    "samples_sequenced": 7,
+    "dtd": 45,
+    "reported_cases": 184,
+    "perc_sequenced": 3.8043478261
+}, {
+    "country": "Thailand",
+    "country_code": "TH",
+    "samples_sequenced": 740,
+    "dtd": 62,
+    "reported_cases": 24405,
+    "perc_sequenced": 3.0321655398
+}, {
+    "country": "Singapore",
+    "country_code": "SG",
+    "samples_sequenced": 1801,
+    "dtd": 60,
+    "reported_cases": 59777,
+    "perc_sequenced": 3.0128644796
+}, {
+    "country": "Finland",
+    "country_code": "FI",
+    "samples_sequenced": 1154,
+    "dtd": 77,
+    "reported_cases": 49572,
+    "perc_sequenced": 2.3279270556
+}, {
+    "country": "Norway",
+    "country_code": "NO",
+    "samples_sequenced": 1424,
+    "dtd": 39,
+    "reported_cases": 65811,
+    "perc_sequenced": 2.1637720138
+}, {
+    "country": "Equatorial Guinea",
+    "country_code": "GQ",
+    "samples_sequenced": 119,
+    "dtd": 179,
+    "reported_cases": 5663,
+    "perc_sequenced": 2.1013597033
+}, {
+    "country": "South Korea",
+    "country_code": "KR",
+    "samples_sequenced": 1738,
+    "dtd": 82,
+    "reported_cases": 83199,
+    "perc_sequenced": 2.0889674155
+}, {
+    "country": "Canada",
+    "country_code": "CA",
+    "samples_sequenced": 15692,
+    "dtd": 164,
+    "reported_cases": 817163,
+    "perc_sequenced": 1.9203023142
+}, {
+    "country": "Switzerland",
+    "country_code": "CH",
+    "samples_sequenced": 9468,
+    "dtd": 23,
+    "reported_cases": 538116,
+    "perc_sequenced": 1.7594719354
+}, {
+    "country": "Democratic Republic of the Congo",
+    "country_code": "CD",
+    "samples_sequenced": 371,
+    "dtd": 79,
+    "reported_cases": 24151,
+    "perc_sequenced": 1.5361682746
+}, {
+    "country": "Papua New Guinea",
+    "country_code": "PG",
+    "samples_sequenced": 13,
+    "dtd": 104,
+    "reported_cases": 922,
+    "perc_sequenced": 1.409978308
+}, {
+    "country": "Ireland",
+    "country_code": "IE",
+    "samples_sequenced": 2358,
+    "dtd": 39,
+    "reported_cases": 207720,
+    "perc_sequenced": 1.1351819757
+}, {
+    "country": "China",
+    "country_code": "CN",
+    "samples_sequenced": 1106,
+    "dtd": 80,
+    "reported_cases": 101496,
+    "perc_sequenced": 1.0896981162
+}, {
+    "country": "Rwanda",
+    "country_code": "RW",
+    "samples_sequenced": 184,
+    "dtd": 145,
+    "reported_cases": 17200,
+    "perc_sequenced": 1.0697674419
+}, {
+    "country": "Mayotte",
+    "country_code": "YT",
+    "samples_sequenced": 117,
+    "dtd": 16,
+    "reported_cases": 12702,
+    "perc_sequenced": 0.9211147851
+}, {
+    "country": "Suriname",
+    "country_code": "SR",
+    "samples_sequenced": 71,
+    "dtd": 59,
+    "reported_cases": 8765,
+    "perc_sequenced": 0.8100399315
+}, {
+    "country": "Netherlands",
+    "country_code": "NL",
+    "samples_sequenced": 8269,
+    "dtd": 30,
+    "reported_cases": 1021643,
+    "perc_sequenced": 0.8093825338
+}, {
+    "country": "Burkina Faso",
+    "country_code": "BF",
+    "samples_sequenced": 85,
+    "dtd": 76,
+    "reported_cases": 11538,
+    "perc_sequenced": 0.7366961345
+}, {
+    "country": "Saint Martin",
+    "country_code": "MF",
+    "samples_sequenced": 10,
+    "dtd": 219,
+    "reported_cases": 1377,
+    "perc_sequenced": 0.7262164125
+}, {
+    "country": "Belgium",
+    "country_code": "BE",
+    "samples_sequenced": 5237,
+    "dtd": 24,
+    "reported_cases": 735220,
+    "perc_sequenced": 0.7123038002
+}, {
+    "country": "Kenya",
+    "country_code": "KE",
+    "samples_sequenced": 679,
+    "dtd": 134,
+    "reported_cases": 102613,
+    "perc_sequenced": 0.66170953
+}, {
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "samples_sequenced": 1843,
+    "dtd": 208,
+    "reported_cases": 342974,
+    "perc_sequenced": 0.537358517
+}, {
+    "country": "Uganda",
+    "country_code": "UG",
+    "samples_sequenced": 208,
+    "dtd": 124,
+    "reported_cases": 39979,
+    "perc_sequenced": 0.5202731434
+}, {
+    "country": "Senegal",
+    "country_code": "SN",
+    "samples_sequenced": 136,
+    "dtd": 23,
+    "reported_cases": 30376,
+    "perc_sequenced": 0.4477218857
+}, {
+    "country": "Latvia",
+    "country_code": "LV",
+    "samples_sequenced": 315,
+    "dtd": 30,
+    "reported_cases": 75509,
+    "perc_sequenced": 0.4171688143
+}, {
+    "country": "Saint Lucia",
+    "country_code": "LC",
+    "samples_sequenced": 10,
+    "dtd": 28,
+    "reported_cases": 2415,
+    "perc_sequenced": 0.4140786749
+}, {
+    "country": "Lithuania",
+    "country_code": "LT",
+    "samples_sequenced": 775,
+    "dtd": 59,
+    "reported_cases": 190241,
+    "perc_sequenced": 0.40737801
+}, {
+    "country": "Portugal",
+    "country_code": "PT",
+    "samples_sequenced": 3151,
+    "dtd": 50,
+    "reported_cases": 781223,
+    "perc_sequenced": 0.4033419395
+}, {
+    "country": "USA",
+    "country_code": "US",
+    "samples_sequenced": 105568,
+    "dtd": 60,
+    "reported_cases": 27122583,
+    "perc_sequenced": 0.3892254657
+}, {
+    "country": "Austria",
+    "country_code": "AT",
+    "samples_sequenced": 1655,
+    "dtd": 77,
+    "reported_cases": 427367,
+    "perc_sequenced": 0.3872549823
+}, {
+    "country": "Zambia",
+    "country_code": "ZM",
+    "samples_sequenced": 221,
+    "dtd": 209,
+    "reported_cases": 67681,
+    "perc_sequenced": 0.3265318184
+}, {
+    "country": "Mongolia",
+    "country_code": "MN",
+    "samples_sequenced": 7,
+    "dtd": 233,
+    "reported_cases": 2247,
+    "perc_sequenced": 0.3115264798
+}, {
+    "country": "Mali",
+    "country_code": "ML",
+    "samples_sequenced": 24,
+    "dtd": 95,
+    "reported_cases": 8218,
+    "perc_sequenced": 0.2920418593
+}, {
+    "country": "Sierra Leone",
+    "country_code": "SL",
+    "samples_sequenced": 11,
+    "dtd": 123,
+    "reported_cases": 3817,
+    "perc_sequenced": 0.288184438
+}, {
+    "country": "Uruguay",
+    "country_code": "UY",
+    "samples_sequenced": 135,
+    "dtd": 85,
+    "reported_cases": 47254,
+    "perc_sequenced": 0.2856901003
+}, {
+    "country": "French Guiana",
+    "country_code": "GF",
+    "samples_sequenced": 47,
+    "dtd": 20,
+    "reported_cases": 16456,
+    "perc_sequenced": 0.2856101118
+}, {
+    "country": "Zimbabwe",
+    "country_code": "ZW",
+    "samples_sequenced": 100,
+    "dtd": 202,
+    "reported_cases": 35045,
+    "perc_sequenced": 0.2853474105
+}, {
+    "country": "Guadeloupe",
+    "country_code": "GP",
+    "samples_sequenced": 26,
+    "dtd": 226,
+    "reported_cases": 9302,
+    "perc_sequenced": 0.2795097828
+}, {
+    "country": "Spain",
+    "country_code": "ES",
+    "samples_sequenced": 8488,
+    "dtd": 80,
+    "reported_cases": 3041454,
+    "perc_sequenced": 0.2790770467
+}, {
+    "country": "Ghana",
+    "country_code": "GH",
+    "samples_sequenced": 204,
+    "dtd": 33,
+    "reported_cases": 74347,
+    "perc_sequenced": 0.2743890137
+}, {
+    "country": "Sweden",
+    "country_code": "SE",
+    "samples_sequenced": 1668,
+    "dtd": 49,
+    "reported_cases": 608411,
+    "perc_sequenced": 0.2741567789
+}, {
+    "country": "Mozambique",
+    "country_code": "MZ",
+    "samples_sequenced": 126,
+    "dtd": 33,
+    "reported_cases": 47790,
+    "perc_sequenced": 0.263653484
+}, {
+    "country": "Benin",
+    "country_code": "BJ",
+    "samples_sequenced": 12,
+    "dtd": 93,
+    "reported_cases": 4560,
+    "perc_sequenced": 0.2631578947
+}, {
+    "country": "Antigua and Barbuda",
+    "country_code": "AG",
+    "samples_sequenced": 1,
+    "dtd": 66,
+    "reported_cases": 381,
+    "perc_sequenced": 0.2624671916
+}, {
+    "country": "Aruba",
+    "country_code": "AW",
+    "samples_sequenced": 19,
+    "dtd": 98,
+    "reported_cases": 7338,
+    "perc_sequenced": 0.2589261379
+}, {
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "samples_sequenced": 953,
+    "dtd": 127,
+    "reported_cases": 372073,
+    "perc_sequenced": 0.2561325331
+}, {
+    "country": "Israel",
+    "country_code": "IL",
+    "samples_sequenced": 1702,
+    "dtd": 27,
+    "reported_cases": 705092,
+    "perc_sequenced": 0.2413869396
+}, {
+    "country": "Egypt",
+    "country_code": "EG",
+    "samples_sequenced": 409,
+    "dtd": 27,
+    "reported_cases": 172602,
+    "perc_sequenced": 0.236961333
+}, {
+    "country": "Nigeria",
+    "country_code": "NG",
+    "samples_sequenced": 340,
+    "dtd": 84,
+    "reported_cases": 144521,
+    "perc_sequenced": 0.2352599276
+}, {
+    "country": "North Macedonia",
+    "country_code": "MK",
+    "samples_sequenced": 224,
+    "dtd": 63,
+    "reported_cases": 96518,
+    "perc_sequenced": 0.2320810626
+}, {
+    "country": "South Africa",
+    "country_code": "ZA",
+    "samples_sequenced": 3420,
+    "dtd": 35,
+    "reported_cases": 1487681,
+    "perc_sequenced": 0.2298879935
+}, {
+    "country": "Germany",
+    "country_code": "DE",
+    "samples_sequenced": 5156,
+    "dtd": 156,
+    "reported_cases": 2328447,
+    "perc_sequenced": 0.2214351454
+}, {
+    "country": "Botswana",
+    "country_code": "BW",
+    "samples_sequenced": 55,
+    "dtd": 20,
+    "reported_cases": 24926,
+    "perc_sequenced": 0.2206531333
+}, {
+    "country": "Trinidad",
+    "country_code": "TT",
+    "samples_sequenced": 16,
+    "dtd": 100,
+    "reported_cases": 7632,
+    "perc_sequenced": 0.2096436059
+}, {
+    "country": "Curacao",
+    "country_code": "CW",
+    "samples_sequenced": 9,
+    "dtd": 198,
+    "reported_cases": 4633,
+    "perc_sequenced": 0.1942585798
+}, {
+    "country": "France",
+    "country_code": "FR",
+    "samples_sequenced": 6118,
+    "dtd": 55,
+    "reported_cases": 3369672,
+    "perc_sequenced": 0.1815606979
+}, {
+    "country": "Jordan",
+    "country_code": "JO",
+    "samples_sequenced": 590,
+    "dtd": 49,
+    "reported_cases": 343563,
+    "perc_sequenced": 0.1717297846
+}, {
+    "country": "Bangladesh",
+    "country_code": "BD",
+    "samples_sequenced": 896,
+    "dtd": 41,
+    "reported_cases": 539975,
+    "perc_sequenced": 0.165933608
+}, {
+    "country": "Oman",
+    "country_code": "OM",
+    "samples_sequenced": 205,
+    "dtd": 76,
+    "reported_cases": 136622,
+    "perc_sequenced": 0.1500490404
+}, {
+    "country": "Italy",
+    "country_code": "IT",
+    "samples_sequenced": 3920,
+    "dtd": 65,
+    "reported_cases": 2697296,
+    "perc_sequenced": 0.1453307312
+}, {
+    "country": "Malaysia",
+    "country_code": "MY",
+    "samples_sequenced": 361,
+    "dtd": 85,
+    "reported_cases": 258306,
+    "perc_sequenced": 0.1397567226
+}, {
+    "country": "Sri Lanka",
+    "country_code": "LK",
+    "samples_sequenced": 101,
+    "dtd": 24,
+    "reported_cases": 74056,
+    "perc_sequenced": 0.1363832775
+}, {
+    "country": "Slovenia",
+    "country_code": "SI",
+    "samples_sequenced": 242,
+    "dtd": 220,
+    "reported_cases": 178133,
+    "perc_sequenced": 0.1358535476
+}, {
+    "country": "Bahrain",
+    "country_code": "BH",
+    "samples_sequenced": 150,
+    "dtd": 28,
+    "reported_cases": 111312,
+    "perc_sequenced": 0.1347563605
+}, {
+    "country": "Chile",
+    "country_code": "CL",
+    "samples_sequenced": 966,
+    "dtd": 164,
+    "reported_cases": 768471,
+    "perc_sequenced": 0.125704158
+}, {
+    "country": "Liechtenstein",
+    "country_code": "LI",
+    "samples_sequenced": 3,
+    "dtd": 28,
+    "reported_cases": 2611,
+    "perc_sequenced": 0.1148985063
+}, {
+    "country": "Costa Rica",
+    "country_code": "CR",
+    "samples_sequenced": 228,
+    "dtd": 84,
+    "reported_cases": 198756,
+    "perc_sequenced": 0.1147135181
+}, {
+    "country": "Panama",
+    "country_code": "PA",
+    "samples_sequenced": 315,
+    "dtd": 119,
+    "reported_cases": 330075,
+    "perc_sequenced": 0.0954328562
+}, {
+    "country": "Ecuador",
+    "country_code": "EC",
+    "samples_sequenced": 237,
+    "dtd": 36,
+    "reported_cases": 263517,
+    "perc_sequenced": 0.0899372716
+}, {
+    "country": "Greece",
+    "country_code": "GR",
+    "samples_sequenced": 142,
+    "dtd": 58,
+    "reported_cases": 170244,
+    "perc_sequenced": 0.0834096943
+}, {
+    "country": "Malta",
+    "country_code": "MT",
+    "samples_sequenced": 15,
+    "dtd": 30,
+    "reported_cases": 19497,
+    "perc_sequenced": 0.0769349131
+}, {
+    "country": "Gabon",
+    "country_code": "GA",
+    "samples_sequenced": 9,
+    "dtd": 211,
+    "reported_cases": 12171,
+    "perc_sequenced": 0.0739462657
+}, {
+    "country": "Hungary",
+    "country_code": "HU",
+    "samples_sequenced": 278,
+    "dtd": 66,
+    "reported_cases": 385755,
+    "perc_sequenced": 0.0720664671
+}, {
+    "country": "Saint Vincent and the Grenadines",
+    "country_code": "VC",
+    "samples_sequenced": 1,
+    "dtd": 46,
+    "reported_cases": 1395,
+    "perc_sequenced": 0.0716845878
+}, {
+    "country": "Jamaica",
+    "country_code": "JM",
+    "samples_sequenced": 13,
+    "dtd": 67,
+    "reported_cases": 18527,
+    "perc_sequenced": 0.0701678631
+}, {
+    "country": "Cameroon",
+    "country_code": "CM",
+    "samples_sequenced": 22,
+    "dtd": 82,
+    "reported_cases": 31394,
+    "perc_sequenced": 0.0700770848
+}, {
+    "country": "Slovakia",
+    "country_code": "SK",
+    "samples_sequenced": 168,
+    "dtd": 20,
+    "reported_cases": 273904,
+    "perc_sequenced": 0.0613353584
+}, {
+    "country": "Guam",
+    "country_code": "GU",
+    "samples_sequenced": 4,
+    "dtd": 51,
+    "reported_cases": 7481,
+    "perc_sequenced": 0.0534687876
+}, {
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "samples_sequenced": 532,
+    "dtd": 55,
+    "reported_cases": 1082849,
+    "perc_sequenced": 0.049129657
+}, {
+    "country": "India",
+    "country_code": "IN",
+    "samples_sequenced": 5132,
+    "dtd": 62,
+    "reported_cases": 10892746,
+    "perc_sequenced": 0.0471139233
+}, {
+    "country": "Bosnia and Herzegovina",
+    "country_code": "BA",
+    "samples_sequenced": 59,
+    "dtd": 71,
+    "reported_cases": 125402,
+    "perc_sequenced": 0.0470486914
+}, {
+    "country": "Mexico",
+    "country_code": "MX",
+    "samples_sequenced": 922,
+    "dtd": 130,
+    "reported_cases": 1968566,
+    "perc_sequenced": 0.0468361234
+}, {
+    "country": "Russia",
+    "country_code": "RU",
+    "samples_sequenced": 1844,
+    "dtd": 67,
+    "reported_cases": 4057698,
+    "perc_sequenced": 0.045444486
+}, {
+    "country": "Palestine",
+    "country_code": "PS",
+    "samples_sequenced": 79,
+    "dtd": 109,
+    "reported_cases": 187526,
+    "perc_sequenced": 0.0421274917
+}, {
+    "country": "Serbia",
+    "country_code": "RS",
+    "samples_sequenced": 175,
+    "dtd": 145,
+    "reported_cases": 417871,
+    "perc_sequenced": 0.0418789531
+}, {
+    "country": "Guinea",
+    "country_code": "GN",
+    "samples_sequenced": 6,
+    "dtd": 213,
+    "reported_cases": 14860,
+    "perc_sequenced": 0.0403768506
+}, {
+    "country": "Tunisia",
+    "country_code": "TN",
+    "samples_sequenced": 84,
+    "dtd": 53,
+    "reported_cases": 221455,
+    "perc_sequenced": 0.0379309566
+}, {
+    "country": "Reunion",
+    "country_code": "RE",
+    "samples_sequenced": 4,
+    "dtd": 155,
+    "reported_cases": 10907,
+    "perc_sequenced": 0.0366736958
+}, {
+    "country": "Peru",
+    "country_code": "PE",
+    "samples_sequenced": 443,
+    "dtd": 96,
+    "reported_cases": 1212309,
+    "perc_sequenced": 0.0365418388
+}, {
+    "country": "Poland",
+    "country_code": "PL",
+    "samples_sequenced": 573,
+    "dtd": 35,
+    "reported_cases": 1583621,
+    "perc_sequenced": 0.0361828998
+}, {
+    "country": "Argentina",
+    "country_code": "AR",
+    "samples_sequenced": 717,
+    "dtd": 240,
+    "reported_cases": 2008345,
+    "perc_sequenced": 0.0357010374
+}, {
+    "country": "Indonesia",
+    "country_code": "ID",
+    "samples_sequenced": 416,
+    "dtd": 81,
+    "reported_cases": 1201859,
+    "perc_sequenced": 0.0346130453
+}, {
+    "country": "Belize",
+    "country_code": "BZ",
+    "samples_sequenced": 4,
+    "dtd": 131,
+    "reported_cases": 12114,
+    "perc_sequenced": 0.0330196467
+}, {
+    "country": "Madagascar",
+    "country_code": "MG",
+    "samples_sequenced": 6,
+    "dtd": 137,
+    "reported_cases": 19360,
+    "perc_sequenced": 0.0309917355
+}, {
+    "country": "Romania",
+    "country_code": "RO",
+    "samples_sequenced": 233,
+    "dtd": 30,
+    "reported_cases": 757676,
+    "perc_sequenced": 0.0307519309
+}, {
+    "country": "Myanmar",
+    "country_code": "MM",
+    "samples_sequenced": 41,
+    "dtd": 9,
+    "reported_cases": 141543,
+    "perc_sequenced": 0.0289664625
+}, {
+    "country": "Brazil",
+    "country_code": "BR",
+    "samples_sequenced": 2709,
+    "dtd": 112,
+    "reported_cases": 9713909,
+    "perc_sequenced": 0.0278878462
+}, {
+    "country": "Morocco",
+    "country_code": "MA",
+    "samples_sequenced": 123,
+    "dtd": 72,
+    "reported_cases": 477656,
+    "perc_sequenced": 0.0257507495
+}, {
+    "country": "Turkey",
+    "country_code": "TR",
+    "samples_sequenced": 638,
+    "dtd": 46,
+    "reported_cases": 2572190,
+    "perc_sequenced": 0.0248037664
+}, {
+    "country": "Cyprus",
+    "country_code": "CY",
+    "samples_sequenced": 8,
+    "dtd": 70,
+    "reported_cases": 32288,
+    "perc_sequenced": 0.0247770069
+}, {
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "samples_sequenced": 56,
+    "dtd": 32,
+    "reported_cases": 248566,
+    "perc_sequenced": 0.0225292276
+}, {
+    "country": "Colombia",
+    "country_code": "CO",
+    "samples_sequenced": 479,
+    "dtd": 70,
+    "reported_cases": 2179641,
+    "perc_sequenced": 0.0219760961
+}, {
+    "country": "Croatia",
+    "country_code": "HR",
+    "samples_sequenced": 50,
+    "dtd": 80,
+    "reported_cases": 237459,
+    "perc_sequenced": 0.0210562666
+}, {
+    "country": "Guatemala",
+    "country_code": "GT",
+    "samples_sequenced": 32,
+    "dtd": 174,
+    "reported_cases": 166283,
+    "perc_sequenced": 0.0192443004
+}, {
+    "country": "Iran",
+    "country_code": "IR",
+    "samples_sequenced": 271,
+    "dtd": 146,
+    "reported_cases": 1503753,
+    "perc_sequenced": 0.0180215767
+}, {
+    "country": "Montenegro",
+    "country_code": "ME",
+    "samples_sequenced": 12,
+    "dtd": 37,
+    "reported_cases": 68001,
+    "perc_sequenced": 0.0176467993
+}, {
+    "country": "Algeria",
+    "country_code": "DZ",
+    "samples_sequenced": 18,
+    "dtd": 199,
+    "reported_cases": 110303,
+    "perc_sequenced": 0.0163186858
+}, {
+    "country": "Kuwait",
+    "country_code": "KW",
+    "samples_sequenced": 27,
+    "dtd": 34,
+    "reported_cases": 176052,
+    "perc_sequenced": 0.0153363779
+}, {
+    "country": "Belarus",
+    "country_code": "BY",
+    "samples_sequenced": 36,
+    "dtd": 81,
+    "reported_cases": 265284,
+    "perc_sequenced": 0.0135703623
+}, {
+    "country": "Iraq",
+    "country_code": "IQ",
+    "samples_sequenced": 84,
+    "dtd": 211,
+    "reported_cases": 639438,
+    "perc_sequenced": 0.0131365355
+}, {
+    "country": "Trinidad and Tobago",
+    "country_code": "TT",
+    "samples_sequenced": 1,
+    "dtd": 10,
+    "reported_cases": 7632,
+    "perc_sequenced": 0.0131027254
+}, {
+    "country": "Pakistan",
+    "country_code": "PK",
+    "samples_sequenced": 69,
+    "dtd": 148,
+    "reported_cases": 560363,
+    "perc_sequenced": 0.0123134468
+}, {
+    "country": "Bolivia",
+    "country_code": "BO",
+    "samples_sequenced": 27,
+    "dtd": 251,
+    "reported_cases": 233854,
+    "perc_sequenced": 0.0115456652
+}, {
+    "country": "El Salvador",
+    "country_code": "SV",
+    "samples_sequenced": 6,
+    "dtd": 78,
+    "reported_cases": 56653,
+    "perc_sequenced": 0.0105907895
+}, {
+    "country": "Qatar",
+    "country_code": "QA",
+    "samples_sequenced": 16,
+    "dtd": 26,
+    "reported_cases": 156351,
+    "perc_sequenced": 0.0102333851
+}, {
+    "country": "Georgia",
+    "country_code": "GE",
+    "samples_sequenced": 26,
+    "dtd": 17,
+    "reported_cases": 265200,
+    "perc_sequenced": 0.0098039216
+}, {
+    "country": "Andorra",
+    "country_code": "AD",
+    "samples_sequenced": 1,
+    "dtd": 189,
+    "reported_cases": 10427,
+    "perc_sequenced": 0.0095904862
+}, {
+    "country": "Venezuela",
+    "country_code": "VE",
+    "samples_sequenced": 12,
+    "dtd": 77,
+    "reported_cases": 131828,
+    "perc_sequenced": 0.0091027703
+}, {
+    "country": "Philippines",
+    "country_code": "PH",
+    "samples_sequenced": 40,
+    "dtd": 49,
+    "reported_cases": 545300,
+    "perc_sequenced": 0.0073354117
+}, {
+    "country": "Lebanon",
+    "country_code": "LB",
+    "samples_sequenced": 24,
+    "dtd": 78,
+    "reported_cases": 334086,
+    "perc_sequenced": 0.007183779
+}, {
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "samples_sequenced": 15,
+    "dtd": 67,
+    "reported_cases": 229010,
+    "perc_sequenced": 0.0065499323
+}, {
+    "country": "Nepal",
+    "country_code": "NP",
+    "samples_sequenced": 15,
+    "dtd": 146,
+    "reported_cases": 272557,
+    "perc_sequenced": 0.005503436
+}, {
+    "country": "Cuba",
+    "country_code": "CU",
+    "samples_sequenced": 2,
+    "dtd": 140,
+    "reported_cases": 36595,
+    "perc_sequenced": 0.0054652275
+}, {
+    "country": "Moldova",
+    "country_code": "MD",
+    "samples_sequenced": 9,
+    "dtd": 166,
+    "reported_cases": 168826,
+    "perc_sequenced": 0.0053309324
+}, {
+    "country": "Ukraine",
+    "country_code": "UA",
+    "samples_sequenced": 66,
+    "dtd": 76,
+    "reported_cases": 1268049,
+    "perc_sequenced": 0.0052048462
+}, {
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "samples_sequenced": 9,
+    "dtd": 116,
+    "reported_cases": 227764,
+    "perc_sequenced": 0.0039514585
+}, {
+    "country": "Azerbaijan",
+    "country_code": "AZ",
+    "samples_sequenced": 8,
+    "dtd": 23,
+    "reported_cases": 231840,
+    "perc_sequenced": 0.0034506556
+}, {
+    "country": "Uzbekistan",
+    "country_code": "UZ",
+    "samples_sequenced": 2,
+    "dtd": 67,
+    "reported_cases": 79381,
+    "perc_sequenced": 0.0025194946
+}, {
+    "country": "Albania",
+    "country_code": "AL",
+    "samples_sequenced": 1,
+    "dtd": 131,
+    "reported_cases": 90835,
+    "perc_sequenced": 0.0011008972
+}, {
+    "country": "Crimea",
+    "country_code": "UA",
+    "samples_sequenced": 6,
+    "dtd": 72,
+    "reported_cases": 1268049,
+    "perc_sequenced": 0.0004731678
+}]
