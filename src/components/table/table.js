@@ -108,7 +108,7 @@ function Table({
       columns,
       data,
       autoResetPage: false,
-      initialState: { pageIndex: 0, pageSize: 10 },
+      initialState: { pageIndex: 0, pageSize: 12 },
     },
     useGlobalFilter,
     usePagination
